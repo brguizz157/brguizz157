@@ -34,3 +34,18 @@ Conecte-se comigo!
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
 </p>
 
+
+## Certificações
+
+|Certificação | Nome |
+| --- | --- |
+| ![CCNA ITN](https://img.shields.io/badge/_-Cisco_NetAcademy_Introdution_To_Networks-t?style=flat&logo=cisco&logoColor=blue&labelColor=gray&color=gray&link=https%3A%2F%2Fwww.netacad.com%2Fcertificates%3FissuanceId%3Dd9a9e635-1c80-4045-aca6-86761a12bc33) | Cisco NetAcademy Introduction to Networks |
+|![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=gray&color=gray) | AWS Academy Cloud Foundations |
+| ![]()
+
+
+
+
+
+
+
