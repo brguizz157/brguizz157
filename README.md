@@ -8,7 +8,7 @@
 
  ## Sobre mim
 
- <img align="right" height="190" src="https://cdn.pixabay.com/animation/2023/03/20/01/13/01-13-30-963_512.gif">
+ <img align="right" height="190" src="https://cdn.pixabay.com/animation/2024/05/16/21/45/21-45-34-3_512.gif">
 
 Cursando o terceiro semestre de redes de computadores no SENAI com foco em Cyber Security e Network Analist, além disso,
 tenho experiência prática com nuvem AWS e AZURE.
