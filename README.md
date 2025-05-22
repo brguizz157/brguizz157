@@ -10,7 +10,7 @@
 
  <img align="right" height="190" src="https://cdn.pixabay.com/animation/2023/03/20/01/13/01-13-30-963_512.gif">
 
-Cursando o terceiro semestre de redes de computadores no SENAi com foco em Cyber Security e Network Analist, além disso,
+Cursando o terceiro semestre de redes de computadores no SENAI com foco em Cyber Security e Network Analist, além disso,
 tenho experiência prática com nuvem AWS e AZURE.
 
 Conecte-se comigo!
@@ -41,11 +41,48 @@ Conecte-se comigo!
 | --- | --- |
 | ![CCNA ITN](https://img.shields.io/badge/_-Cisco_NetAcademy_Introdution_To_Networks-t?style=flat&logo=cisco&logoColor=blue&labelColor=gray&color=gray&link=https%3A%2F%2Fwww.netacad.com%2Fcertificates%3FissuanceId%3Dd9a9e635-1c80-4045-aca6-86761a12bc33) | Cisco NetAcademy Introduction to Networks |
 |![AWS CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-t?style=flat&logo=amazonwebservices&logoColor=orange&labelColor=gray&color=gray) | AWS Academy Cloud Foundations |
-| ![]()
+| ![CCNA SRWE](https://img.shields.io/badge/_-Cisco_NetAcademy_Switching%2C%20Routing%2C%20and%20Wireless%20Essentials-t?style=flat&logo=cisco&logoColor=blue&labelColor=gray&color=gray&link=https%3A%2F%2Fwww.netacad.com%2Fcertificates%3FissuanceId%3Db14cc9f5-5398-4910-99ac-3a057d4308f9) | Cisco NetAcademy Switching, Routing, and Wireless Essentials
 
 
+---
+
+## Conquistas 🏆
+
+-Curso técnico de Redes
+
+-Projeto Zabbix
+
+-Projeto na Azure (Infra Blue Tech)
 
 
+## Projetos
 
+Casa Inteligênte voltada aos PCD
+-Monitoramento On-Promises com o uso de zabbix & grafana
+
+-Infraestrutura em nuvem utilizando AWS e Azure
+
+-Cabeamento estruturado baseado em empresas reais
+
+-Infraestrutura de Redes no Packet Tracer (Rede São Caetano)
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=brguizz157&theme=shadow-green&hide_border=true">
+</p>
+
+
+## Conecte-se comigo! 📬
+
+<p align="center">
+  <a href=""><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)"></a>
+</p>
+
+
+<h4 align="center">
+  Obrigado por Visitar!
+  <div>
+   <img src="https://komarev.com/ghpvc/?username=brguizz157">
+   </div>
+   </h4>
 
 
